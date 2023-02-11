@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cabe8315.css",
+    "main.js": "/static/js/main.d196ecbe.js",
+    "static/media/chat_background.jpg": "/static/media/chat_background.5d62041452ecd9f31559.jpg",
+    "index.html": "/index.html",
+    "main.cabe8315.css.map": "/static/css/main.cabe8315.css.map",
+    "main.d196ecbe.js.map": "/static/js/main.d196ecbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cabe8315.css",
+    "static/js/main.d196ecbe.js"
+  ]
+}
